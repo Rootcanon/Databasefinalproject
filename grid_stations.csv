@@ -1,0 +1,59 @@
+station_id,name,city_id,capacity_mwa
+1,Lahore Grid,1,3500.00
+2,Faisalabad Grid,2,2000.00
+3,Rawalpindi Grid,3,1500.00
+4,Multan Grid,4,2200.00
+5,Gujranwala Grid,5,1200.00
+6,Bahawalpur Grid,6,1000.00
+7,Sargodha Grid,7,800.00
+8,Sialkot Grid,8,700.00
+9,Sheikhupura Grid,9,900.00
+10,Jhang Grid,10,600.00
+11,Rahim Yar Khan Grid,11,750.00
+12,Gujrat Grid,12,500.00
+13,Kasur Grid,13,450.00
+14,Sahiwal Grid,14,650.00
+15,Okara Grid,15,400.00
+16,D.G. Khan Grid,16,800.00
+17,Muzaffargarh Grid,17,1000.00
+18,Bahawalnagar Grid,18,500.00
+19,Pakpattan Grid,19,350.00
+20,Toba Tek Singh Grid,20,400.00
+21,Jhelum Grid,21,350.00
+22,Khanewal Grid,22,450.00
+23,Mianwali Grid,23,300.00
+24,Hafizabad Grid,24,250.00
+25,Mandi Bahauddin Grid,25,300.00
+26,Lodhran Grid,26,200.00
+27,Vehari Grid,27,250.00
+28,Attock Grid,28,200.00
+29,Chakwal Grid,29,180.00
+30,Narowal Grid,30,200.00
+31,Chiniot Grid,31,150.00
+32,Khushab Grid,32,120.00
+33,Bhakkar Grid,33,150.00
+34,Layyah Grid,34,120.00
+35,Rajanpur Grid,35,150.00
+36,Nankana Sahib Grid,36,120.00
+37,Murree Grid,37,50.00
+38,Talagang Grid,38,80.00
+39,Kot Addu Grid,39,300.00
+40,Hasilpur Grid,40,70.00
+41,Burewala Grid,41,150.00
+42,Kamoke Grid,42,100.00
+43,Gojra Grid,43,120.00
+44,Jaranwala Grid,44,90.00
+45,Chishtian Grid,45,60.00
+46,Ahmadpur East Grid,46,80.00
+47,Kabirwala Grid,47,70.00
+48,Haroonabad Grid,48,60.00
+49,Dunyapur Grid,49,50.00
+50,Kot Abdul Malik Grid,50,40.00
+51,Phalia Grid,51,50.00
+52,Arifwala Grid,52,60.00
+53,Pindi Bhattian Grid,53,40.00
+54,Pasrur Grid,54,50.00
+55,Samundri Grid,55,40.00
+56,Malakwal Grid,56,30.00
+57,Kallar Syedan Grid,57,20.00
+58,Wazirabad Grid,58,150.00

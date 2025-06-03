@@ -1,0 +1,59 @@
+city_id,city_name,province,population
+1,Lahore,Punjab,13095000
+2,Faisalabad,Punjab,3650000
+3,Rawalpindi,Punjab,2350000
+4,Multan,Punjab,2050000
+5,Gujranwala,Punjab,2300000
+6,Bahawalpur,Punjab,850000
+7,Sargodha,Punjab,750000
+8,Sialkot,Punjab,750000
+9,Sheikhupura,Punjab,550000
+10,Jhang,Punjab,500000
+11,Rahim Yar Khan,Punjab,600000
+12,Gujrat,Punjab,450000
+13,Kasur,Punjab,400000
+14,Sahiwal,Punjab,450000
+15,Okara,Punjab,400000
+16,Dera Ghazi Khan,Punjab,550000
+17,Muzaffargarh,Punjab,500000
+18,Bahawalnagar,Punjab,350000
+19,Pakpattan,Punjab,300000
+20,Toba Tek Singh,Punjab,350000
+21,Jhelum,Punjab,300000
+22,Khanewal,Punjab,350000
+23,Mianwali,Punjab,300000
+24,Hafizabad,Punjab,250000
+25,Mandi Bahauddin,Punjab,250000
+26,Lodhran,Punjab,200000
+27,Vehari,Punjab,250000
+28,Attock,Punjab,200000
+29,Chakwal,Punjab,180000
+30,Narowal,Punjab,200000
+31,Chiniot,Punjab,180000
+32,Khushab,Punjab,150000
+33,Bhakkar,Punjab,200000
+34,Layyah,Punjab,180000
+35,Rajanpur,Punjab,200000
+36,Nankana Sahib,Punjab,180000
+37,Murree,Punjab,50000
+38,Talagang,Punjab,100000
+39,Kot Addu,Punjab,120000
+40,Hasilpur,Punjab,100000
+41,Burewala,Punjab,200000
+42,Kamoke,Punjab,150000
+43,Gojra,Punjab,180000
+44,Jaranwala,Punjab,150000
+45,Chishtian,Punjab,100000
+46,Ahmadpur East,Punjab,120000
+47,Kabirwala,Punjab,100000
+48,Haroonabad,Punjab,100000
+49,Dunyapur,Punjab,80000
+50,Kot Abdul Malik,Punjab,70000
+51,Phalia,Punjab,90000
+52,Arifwala,Punjab,100000
+53,Pindi Bhattian,Punjab,80000
+54,Pasrur,Punjab,90000
+55,Samundri,Punjab,80000
+56,Malakwal,Punjab,70000
+57,Kallar Syedan,Punjab,60000
+58,Wazirabad,Punjab,150000

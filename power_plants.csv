@@ -1,0 +1,26 @@
+plant_id,name,type,capacity_mw,location,status
+1,Balloki Power Plant,Combined Cycle,1223.00,Lahore,Operational
+2,Haveli Bahadur Shah,Combined Cycle,1260.00,Jhang,Operational
+3,Quaid-e-Azam Solar Park,Solar,1000.00,Bahawalpur,Operational
+4,Nishat Power Plant,Coal,200.00,Sheikhupura,Operational
+5,Sapphire Electric,Gas,225.00,Rahim Yar Khan,Operational
+6,Uch Power Plant,Gas,990.00,Dera Ghazi Khan,Operational
+7,Liberty Power Plant,Gas,232.00,Gujranwala,Operational
+8,Atlas Power Plant,Gas,225.00,Lahore,Operational
+9,Hubco Narowal Power Plant,Coal,330.00,Narowal,Operational
+10,Rousch Power Plant,Gas,450.00,Faisalabad,Operational
+11,Muzaffargarh Thermal,Coal,1350.00,Muzaffargarh,Operational
+12,Nandipur Power Plant,Gas,425.00,Gujrat,Operational
+13,Sahiwal Coal Power,Coal,1320.00,Sahiwal,Operational
+14,Bhikki Power Plant,Combined Cycle,1180.00,Sheikhupura,Operational
+15,Trimmu Barrage Hydel,Hydro,150.00,Jhang,Operational
+16,Chichoki Mallian Solar,Solar,100.00,Sheikhupura,Operational
+17,Quaidabad Power Plant,Gas,300.00,Khanewal,Operational
+18,Kot Addu Power Plant,Gas,1600.00,Kot Addu,Operational
+19,Pak Gen Guddu,Gas,1650.00,Kashmore,Operational
+20,HUBCO Coal Plant,Coal,330.00,Hub,Operational
+21,Lal Pir Power Plant,Gas,362.00,Muzaffargarh,Operational
+22,Saba Power Plant,Gas,130.00,Sheikhupura,Operational
+23,Orient Power Plant,Gas,225.00,Sheikhupura,Operational
+24,Halmore Power Plant,Gas,225.00,Sheikhupura,Operational
+25,Saif Power Plant,Coal,225.00,Sahiwal,Operational
